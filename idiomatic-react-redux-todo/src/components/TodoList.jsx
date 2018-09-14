@@ -3,6 +3,7 @@ import Todo from './Todo';
 import '../css/bootstrap.css';
 
 const TodoList = ({todos, onTodoClick}) => (
+
     <ul className="list-group">
         {todos.map(todo =>
             <Todo
@@ -12,6 +13,7 @@ const TodoList = ({todos, onTodoClick}) => (
             />
         )}
     </ul>
+
 );
 
 export default TodoList;

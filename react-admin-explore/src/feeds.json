@@ -1,0 +1,1471 @@
+{
+  "count": 16,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "406343ad-bb14-42af-a79b-c6087c1799cc",
+      "key": "audio-2c5b21",
+      "name": "Audio",
+      "device": {
+        "id": "3b91fd9d-59fa-4843-bb81-0bb32042feb2",
+        "device_id": "2C5B21",
+        "device_name": "SAL_2C5B21",
+        "device_type": "SSCI",
+        "alias_name": "AirQuality",
+        "latitude": "1.4414698",
+        "longitude": "103.7707968",
+        "location": "Woodlands"
+      },
+      "device_data_key": "Audio",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "d64be7f3-f07f-4edd-a795-029e385a99ae",
+          "value": "0.0",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T10:07:57Z",
+          "alarms": [
+            {
+              "id": "b1a8ec79-8e7b-4c4a-b6c7-8b66b5b9c8e6",
+              "category": "Major",
+              "rule": "audio-2c5b21-major",
+              "times_triggered": 301,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "9739d76e-a77c-4311-9ca2-f7ae2bce4983",
+                  "note": "test",
+                  "acknowledged_by": "saladmin",
+                  "created_at": "2018-09-12T07:39:32.746122Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T07:39:32.753490Z",
+              "created_at": "2018-09-12T07:28:01.455478Z",
+              "updated_at": "2018-09-14T10:08:07.123289Z"
+            }
+          ]
+        },
+        {
+          "id": "64213cc0-195d-4b40-a3f7-dd32c18a416b",
+          "value": "0.0",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T09:57:48Z",
+          "alarms": [
+            {
+              "id": "b1a8ec79-8e7b-4c4a-b6c7-8b66b5b9c8e6",
+              "category": "Major",
+              "rule": "audio-2c5b21-major",
+              "times_triggered": 301,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "9739d76e-a77c-4311-9ca2-f7ae2bce4983",
+                  "note": "test",
+                  "acknowledged_by": "saladmin",
+                  "created_at": "2018-09-12T07:39:32.746122Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T07:39:32.753490Z",
+              "created_at": "2018-09-12T07:28:01.455478Z",
+              "updated_at": "2018-09-14T10:08:07.123289Z"
+            }
+          ]
+        },
+        {
+          "id": "e19425a8-267f-4906-b84a-734f7d8c7cab",
+          "value": "0.0",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -71,
+          "completed_at": "2018-09-14T09:47:41Z",
+          "alarms": [
+            {
+              "id": "b1a8ec79-8e7b-4c4a-b6c7-8b66b5b9c8e6",
+              "category": "Major",
+              "rule": "audio-2c5b21-major",
+              "times_triggered": 301,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "9739d76e-a77c-4311-9ca2-f7ae2bce4983",
+                  "note": "test",
+                  "acknowledged_by": "saladmin",
+                  "created_at": "2018-09-12T07:39:32.746122Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T07:39:32.753490Z",
+              "created_at": "2018-09-12T07:28:01.455478Z",
+              "updated_at": "2018-09-14T10:08:07.123289Z"
+            }
+          ]
+        },
+        {
+          "id": "d40ee655-8d96-4f29-83c0-b8c59149d089",
+          "value": "0.0",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -67,
+          "completed_at": "2018-09-14T09:37:33Z",
+          "alarms": [
+            {
+              "id": "b1a8ec79-8e7b-4c4a-b6c7-8b66b5b9c8e6",
+              "category": "Major",
+              "rule": "audio-2c5b21-major",
+              "times_triggered": 301,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "9739d76e-a77c-4311-9ca2-f7ae2bce4983",
+                  "note": "test",
+                  "acknowledged_by": "saladmin",
+                  "created_at": "2018-09-12T07:39:32.746122Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T07:39:32.753490Z",
+              "created_at": "2018-09-12T07:28:01.455478Z",
+              "updated_at": "2018-09-14T10:08:07.123289Z"
+            }
+          ]
+        },
+        {
+          "id": "6a620d9e-3473-4486-b398-e5165f9d8d3e",
+          "value": "0.0",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -70,
+          "completed_at": "2018-09-14T09:27:24Z",
+          "alarms": [
+            {
+              "id": "b1a8ec79-8e7b-4c4a-b6c7-8b66b5b9c8e6",
+              "category": "Major",
+              "rule": "audio-2c5b21-major",
+              "times_triggered": 301,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "9739d76e-a77c-4311-9ca2-f7ae2bce4983",
+                  "note": "test",
+                  "acknowledged_by": "saladmin",
+                  "created_at": "2018-09-12T07:39:32.746122Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T07:39:32.753490Z",
+              "created_at": "2018-09-12T07:28:01.455478Z",
+              "updated_at": "2018-09-14T10:08:07.123289Z"
+            }
+          ]
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "dB",
+      "is_active": true,
+      "health": "Major",
+      "retroactive": false
+    },
+    {
+      "id": "30fe5d81-3a09-4ae4-a014-bb8a728930bc",
+      "key": "current-l1-2c5962",
+      "name": "Current L1",
+      "device": {
+        "id": "3b19a957-79cd-46cf-97a1-e23109a4733f",
+        "device_id": "2C5962",
+        "device_name": "SAL_2C5962",
+        "device_type": "SSAI",
+        "alias_name": "Extra1",
+        "latitude": "1.2935080",
+        "longitude": "103.7721360",
+        "location": "Car Park 14 , Computing Drive"
+      },
+      "device_data_key": "Tx Counter",
+      "conversion_factor": 20,
+      "feed_data": [
+        {
+          "id": "082025f5-e23e-4b6a-b144-c25c4497022b",
+          "value": "1780.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -35,
+          "completed_at": "2018-09-14T10:03:26Z",
+          "alarms": []
+        },
+        {
+          "id": "2149a6f4-a188-4301-87db-1ace8147510b",
+          "value": "1760.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -29,
+          "completed_at": "2018-09-14T09:53:18Z",
+          "alarms": []
+        },
+        {
+          "id": "8b361924-1c7d-4ad8-bf4b-3af492de03a6",
+          "value": "1740.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -35,
+          "completed_at": "2018-09-14T09:43:08Z",
+          "alarms": []
+        },
+        {
+          "id": "a510a4d3-ab59-45b7-9230-66bdf4ed97f3",
+          "value": "1720.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -34,
+          "completed_at": "2018-09-14T09:33:01Z",
+          "alarms": []
+        },
+        {
+          "id": "f694a9b5-ce40-47a9-8098-18f79a481dba",
+          "value": "1700.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -119,
+          "completed_at": "2018-09-14T09:22:51Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "mA",
+      "unit_symbol": "mA",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "df4e8895-dc3f-4766-af53-59e19e3013cd",
+      "key": "eco2-2c5b21",
+      "name": "Eco2",
+      "device": {
+        "id": "3b91fd9d-59fa-4843-bb81-0bb32042feb2",
+        "device_id": "2C5B21",
+        "device_name": "SAL_2C5B21",
+        "device_type": "SSCI",
+        "alias_name": "AirQuality",
+        "latitude": "1.4414698",
+        "longitude": "103.7707968",
+        "location": "Woodlands"
+      },
+      "device_data_key": "eCO2",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "62532daa-ec94-4efa-b1a4-621b7dd21c73",
+          "value": "743.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T10:07:57Z",
+          "alarms": []
+        },
+        {
+          "id": "994926c3-5360-4a9a-bc6b-fe9ea17949c1",
+          "value": "810.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T09:57:48Z",
+          "alarms": []
+        },
+        {
+          "id": "0920b83b-4121-4612-9db2-5b0b46a3ea65",
+          "value": "901.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -71,
+          "completed_at": "2018-09-14T09:47:41Z",
+          "alarms": []
+        },
+        {
+          "id": "1b61c3fa-b36d-4655-be96-8daf7b8ab1b8",
+          "value": "696.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -67,
+          "completed_at": "2018-09-14T09:37:33Z",
+          "alarms": []
+        },
+        {
+          "id": "b3b03090-4ed5-4573-88fe-534c087ae7c5",
+          "value": "779.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -70,
+          "completed_at": "2018-09-14T09:27:24Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "ppm",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "9994f069-5341-40cb-822b-d86c658b3804",
+      "key": "humidity-2c31cf",
+      "name": "Humidity",
+      "device": {
+        "id": "93e702cf-5440-49a8-998e-cf3d6c348be1",
+        "device_id": "2C31CF",
+        "device_name": "SAL_2C31CF",
+        "device_type": "SSAI",
+        "alias_name": "George",
+        "latitude": "1.3108490",
+        "longitude": "103.8637110",
+        "location": "DCMA"
+      },
+      "device_data_key": "Humidity",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "2f6d9ccc-0da7-4e00-9315-8f7dfe012d75",
+          "value": "49.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -112,
+          "completed_at": "2018-08-31T08:33:44Z",
+          "alarms": []
+        },
+        {
+          "id": "eb3335cd-2dd0-41b2-ac0b-9d91908eb26d",
+          "value": "49.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -120,
+          "completed_at": "2018-08-31T08:32:36Z",
+          "alarms": []
+        },
+        {
+          "id": "3e78ec23-0c4c-4a44-8542-dd6540a5adeb",
+          "value": "49.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -99,
+          "completed_at": "2018-08-31T08:31:29Z",
+          "alarms": []
+        },
+        {
+          "id": "dabfe50b-9614-42f2-bf31-172a0508e489",
+          "value": "49.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -119,
+          "completed_at": "2018-08-31T08:30:22Z",
+          "alarms": []
+        },
+        {
+          "id": "c5ab48da-70e8-45cc-8b34-d58b3957cfdd",
+          "value": "49.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -110,
+          "completed_at": "2018-08-31T08:29:15Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "%",
+      "is_active": true,
+      "health": "Inactive",
+      "retroactive": false
+    },
+    {
+      "id": "2cc21483-c3e4-43e4-935e-2587f96c22bd",
+      "key": "humidity-2c5b21",
+      "name": "Humidity",
+      "device": {
+        "id": "3b91fd9d-59fa-4843-bb81-0bb32042feb2",
+        "device_id": "2C5B21",
+        "device_name": "SAL_2C5B21",
+        "device_type": "SSCI",
+        "alias_name": "AirQuality",
+        "latitude": "1.4414698",
+        "longitude": "103.7707968",
+        "location": "Woodlands"
+      },
+      "device_data_key": "Humidity",
+      "conversion_factor": 0.1,
+      "feed_data": [
+        {
+          "id": "6c76cb69-5cc4-4b4a-9f44-b5c7d4570339",
+          "value": "66.60000000000001",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T10:07:57Z",
+          "alarms": []
+        },
+        {
+          "id": "7e16d16c-ac74-4507-94b6-bf936abe9ba6",
+          "value": "65.60000000000001",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T09:57:48Z",
+          "alarms": []
+        },
+        {
+          "id": "6a62075a-45fb-4512-8ee3-fe374bb307ad",
+          "value": "68.2",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -71,
+          "completed_at": "2018-09-14T09:47:41Z",
+          "alarms": []
+        },
+        {
+          "id": "ba038323-cc2b-4222-84ee-3993f36ef774",
+          "value": "62.400000000000006",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -67,
+          "completed_at": "2018-09-14T09:37:33Z",
+          "alarms": []
+        },
+        {
+          "id": "906ab873-1573-4aa2-878b-e79a13253196",
+          "value": "68.60000000000001",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -70,
+          "completed_at": "2018-09-14T09:27:24Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "%",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "139dda09-2d94-4d58-bc20-f0c164963520",
+      "key": "light-2c5b21",
+      "name": "Light",
+      "device": {
+        "id": "3b91fd9d-59fa-4843-bb81-0bb32042feb2",
+        "device_id": "2C5B21",
+        "device_name": "SAL_2C5B21",
+        "device_type": "SSCI",
+        "alias_name": "AirQuality",
+        "latitude": "1.4414698",
+        "longitude": "103.7707968",
+        "location": "Woodlands"
+      },
+      "device_data_key": "Light",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "4908fb25-6164-440f-9a13-b95b1a8b94cc",
+          "value": "93.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T10:07:57Z",
+          "alarms": []
+        },
+        {
+          "id": "4b95382e-cdbb-4afc-b04b-acbceae3a16b",
+          "value": "96.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T09:57:48Z",
+          "alarms": []
+        },
+        {
+          "id": "b2c4b7d2-4c4b-42ef-9fb5-90da0a718fa0",
+          "value": "21.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -71,
+          "completed_at": "2018-09-14T09:47:41Z",
+          "alarms": []
+        },
+        {
+          "id": "a9fee1e0-f680-4daf-9bf5-af92f8520e35",
+          "value": "21.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -67,
+          "completed_at": "2018-09-14T09:37:33Z",
+          "alarms": []
+        },
+        {
+          "id": "c008a86e-0439-4898-99bd-a2363c19ece9",
+          "value": "21.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -70,
+          "completed_at": "2018-09-14T09:27:24Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "lux",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "3136c258-d885-418f-a67a-6cb0923072b6",
+      "key": "rtd---pt1000-3f6a1b",
+      "name": "RTD - PT1000",
+      "device": {
+        "id": "3e194506-9f3a-404e-86cd-d3c0bd2c6901",
+        "device_id": "3F6A1B",
+        "device_name": "SAL_3F6A1B",
+        "device_type": "SSAI",
+        "alias_name": "RTD -  PT1000",
+        "latitude": "1.2914270",
+        "longitude": "103.7850274",
+        "location": "SpaceAge Labs"
+      },
+      "device_data_key": "Analog Param1",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "81db7813-e5e1-48ee-9f0d-bc5e9b81fea2",
+          "value": "25.8",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -40,
+          "completed_at": "2018-09-14T10:01:39Z",
+          "alarms": [
+            {
+              "id": "d1b2c404-8175-4c7c-af0b-a21407a9bb06",
+              "category": "Major",
+              "rule": "rtd---pt1000-3f6a1b-major",
+              "times_triggered": 351,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "950bba28-ab20-42e1-9616-041aefea5b39",
+                  "note": "abcd",
+                  "acknowledged_by": "demo@spaceagelabs.com.sg",
+                  "created_at": "2018-09-12T09:05:31.664224Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T09:05:31.672151Z",
+              "created_at": "2018-09-12T07:31:21.623608Z",
+              "updated_at": "2018-09-14T10:01:45.549219Z"
+            }
+          ]
+        },
+        {
+          "id": "31964617-d43e-4752-b826-65beec0947ba",
+          "value": "25.8",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -39,
+          "completed_at": "2018-09-14T09:53:02Z",
+          "alarms": [
+            {
+              "id": "d1b2c404-8175-4c7c-af0b-a21407a9bb06",
+              "category": "Major",
+              "rule": "rtd---pt1000-3f6a1b-major",
+              "times_triggered": 351,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "950bba28-ab20-42e1-9616-041aefea5b39",
+                  "note": "abcd",
+                  "acknowledged_by": "demo@spaceagelabs.com.sg",
+                  "created_at": "2018-09-12T09:05:31.664224Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T09:05:31.672151Z",
+              "created_at": "2018-09-12T07:31:21.623608Z",
+              "updated_at": "2018-09-14T10:01:45.549219Z"
+            }
+          ]
+        },
+        {
+          "id": "4681f19a-db3e-4ae0-8f19-73375112608b",
+          "value": "25.93",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -122,
+          "completed_at": "2018-09-14T09:44:21Z",
+          "alarms": [
+            {
+              "id": "d1b2c404-8175-4c7c-af0b-a21407a9bb06",
+              "category": "Major",
+              "rule": "rtd---pt1000-3f6a1b-major",
+              "times_triggered": 351,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "950bba28-ab20-42e1-9616-041aefea5b39",
+                  "note": "abcd",
+                  "acknowledged_by": "demo@spaceagelabs.com.sg",
+                  "created_at": "2018-09-12T09:05:31.664224Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T09:05:31.672151Z",
+              "created_at": "2018-09-12T07:31:21.623608Z",
+              "updated_at": "2018-09-14T10:01:45.549219Z"
+            }
+          ]
+        },
+        {
+          "id": "997cfe87-6816-4dbf-a782-68e5c09ef970",
+          "value": "25.93",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -40,
+          "completed_at": "2018-09-14T09:35:43Z",
+          "alarms": [
+            {
+              "id": "d1b2c404-8175-4c7c-af0b-a21407a9bb06",
+              "category": "Major",
+              "rule": "rtd---pt1000-3f6a1b-major",
+              "times_triggered": 351,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "950bba28-ab20-42e1-9616-041aefea5b39",
+                  "note": "abcd",
+                  "acknowledged_by": "demo@spaceagelabs.com.sg",
+                  "created_at": "2018-09-12T09:05:31.664224Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T09:05:31.672151Z",
+              "created_at": "2018-09-12T07:31:21.623608Z",
+              "updated_at": "2018-09-14T10:01:45.549219Z"
+            }
+          ]
+        },
+        {
+          "id": "06580abd-f8e3-426e-b715-519b1f0a1e45",
+          "value": "25.93",
+          "category": "Major",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -122,
+          "completed_at": "2018-09-14T09:27:02Z",
+          "alarms": [
+            {
+              "id": "d1b2c404-8175-4c7c-af0b-a21407a9bb06",
+              "category": "Major",
+              "rule": "rtd---pt1000-3f6a1b-major",
+              "times_triggered": 351,
+              "acknowledged": true,
+              "acknowledgements": [
+                {
+                  "id": "950bba28-ab20-42e1-9616-041aefea5b39",
+                  "note": "abcd",
+                  "acknowledged_by": "demo@spaceagelabs.com.sg",
+                  "created_at": "2018-09-12T09:05:31.664224Z"
+                }
+              ],
+              "cleared": false,
+              "acknowledged_at": "2018-09-12T09:05:31.672151Z",
+              "created_at": "2018-09-12T07:31:21.623608Z",
+              "updated_at": "2018-09-14T10:01:45.549219Z"
+            }
+          ]
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "°C",
+      "is_active": true,
+      "health": "Major",
+      "retroactive": false
+    },
+    {
+      "id": "ae90e4d7-fd47-4d62-9db0-ead2d4cae42e",
+      "key": "rtd---pt100-2-3feca4",
+      "name": "RTD - PT100-2",
+      "device": {
+        "id": "fecba81c-8ae4-479a-9c6e-de08ed08230d",
+        "device_id": "3FECA4",
+        "device_name": "SAL_3FECA4",
+        "device_type": "SSAI",
+        "alias_name": "New RTD - PT100",
+        "latitude": "1.2930580",
+        "longitude": "103.7721520",
+        "location": "Car Park 15"
+      },
+      "device_data_key": "Analog Param1",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "c5a42357-dd2d-41c0-94c9-ccc832ac190c",
+          "value": "24.21",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -39,
+          "completed_at": "2018-09-14T10:04:23Z",
+          "alarms": []
+        },
+        {
+          "id": "f2dc3f64-6347-4e12-b2e9-cd8b9d61838b",
+          "value": "24.21",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -40,
+          "completed_at": "2018-09-14T09:55:44Z",
+          "alarms": []
+        },
+        {
+          "id": "4788d2b5-ac84-4123-b59e-199ec6066ced",
+          "value": "24.21",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -39,
+          "completed_at": "2018-09-14T09:47:05Z",
+          "alarms": []
+        },
+        {
+          "id": "58f4054d-5fe5-4dea-8d32-fba251186242",
+          "value": "24.21",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -40,
+          "completed_at": "2018-09-14T09:38:25Z",
+          "alarms": []
+        },
+        {
+          "id": "29420ca6-ad75-4e1c-ad7d-55a6de216794",
+          "value": "24.21",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -40,
+          "completed_at": "2018-09-14T09:29:45Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "°C",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "f4c4d62b-4e7f-47af-874b-5268e87da9ec",
+      "key": "rtd---pt100-3fef0e",
+      "name": "RTD - PT100",
+      "device": {
+        "id": "bba644f8-bf8c-43ea-a3b1-d8ff6f86d7b5",
+        "device_id": "3FEF0E",
+        "device_name": "SAL_3FEF0E",
+        "device_type": "SSAI",
+        "alias_name": "RTD (PT100)",
+        "latitude": "14.3566312",
+        "longitude": "100.5655013",
+        "location": "Ayutthaya"
+      },
+      "device_data_key": "Analog Param1",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "a617a6ea-e7fd-4f6d-bb93-7c4173c93c2c",
+          "value": "45.54",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -51,
+          "completed_at": "2018-09-07T09:38:54Z",
+          "alarms": []
+        },
+        {
+          "id": "52d260f9-ac6f-4dbd-bb35-e9f31c0da2f5",
+          "value": "55.51",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -50,
+          "completed_at": "2018-09-07T09:38:35Z",
+          "alarms": []
+        },
+        {
+          "id": "cb0fddeb-60c9-462a-83f3-fc4ddae7ee51",
+          "value": "48.61",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -50,
+          "completed_at": "2018-09-07T09:38:13Z",
+          "alarms": []
+        },
+        {
+          "id": "d18136c5-b72e-4b7d-a0e1-5628421b0e77",
+          "value": "51.94",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -50,
+          "completed_at": "2018-09-07T09:36:58Z",
+          "alarms": []
+        },
+        {
+          "id": "96c25c6f-1faf-4a5e-9386-23b743a70f09",
+          "value": "46.15",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -51,
+          "completed_at": "2018-09-07T09:36:49Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "c",
+      "is_active": true,
+      "health": "Inactive",
+      "retroactive": false
+    },
+    {
+      "id": "eb5ceaa1-8988-4992-96c0-0e0a8456b305",
+      "key": "temperature-2c31cf",
+      "name": "Temperature",
+      "device": {
+        "id": "93e702cf-5440-49a8-998e-cf3d6c348be1",
+        "device_id": "2C31CF",
+        "device_name": "SAL_2C31CF",
+        "device_type": "SSAI",
+        "alias_name": "George",
+        "latitude": "1.3108490",
+        "longitude": "103.8637110",
+        "location": "DCMA"
+      },
+      "device_data_key": "Temperature",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "d3990fc2-fa95-413f-98a2-f54d8bbcb7ba",
+          "value": "26.55",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -112,
+          "completed_at": "2018-08-31T08:33:44Z",
+          "alarms": []
+        },
+        {
+          "id": "a6810bff-040c-44b7-ace0-ca48c6ac7c15",
+          "value": "26.51",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -120,
+          "completed_at": "2018-08-31T08:32:36Z",
+          "alarms": []
+        },
+        {
+          "id": "a766e67b-6cca-4648-8ef0-ee611adb3a3c",
+          "value": "26.52",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -99,
+          "completed_at": "2018-08-31T08:31:29Z",
+          "alarms": []
+        },
+        {
+          "id": "595a5acc-9bde-4aeb-bb11-86d902a0c75e",
+          "value": "26.53",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -119,
+          "completed_at": "2018-08-31T08:30:22Z",
+          "alarms": []
+        },
+        {
+          "id": "dfd17ae7-67a2-4cc3-b457-39d368cdbe0e",
+          "value": "26.5",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -110,
+          "completed_at": "2018-08-31T08:29:15Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "°C",
+      "is_active": true,
+      "health": "Inactive",
+      "retroactive": false
+    },
+    {
+      "id": "c2270555-e001-498b-99b6-6da56793513e",
+      "key": "temperature-2c5b21",
+      "name": "Temperature",
+      "device": {
+        "id": "3b91fd9d-59fa-4843-bb81-0bb32042feb2",
+        "device_id": "2C5B21",
+        "device_name": "SAL_2C5B21",
+        "device_type": "SSCI",
+        "alias_name": "AirQuality",
+        "latitude": "1.4414698",
+        "longitude": "103.7707968",
+        "location": "Woodlands"
+      },
+      "device_data_key": "Temperature",
+      "conversion_factor": 0.1,
+      "feed_data": [
+        {
+          "id": "fb2f1abf-a935-44f1-92cc-5263ed50d28b",
+          "value": "25.200000000000003",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T10:07:57Z",
+          "alarms": []
+        },
+        {
+          "id": "d531a9e6-175e-48fc-9815-a19bde64a072",
+          "value": "25.6",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T09:57:48Z",
+          "alarms": []
+        },
+        {
+          "id": "9896a594-23af-46e2-bedb-15963b25b4a7",
+          "value": "25.3",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -71,
+          "completed_at": "2018-09-14T09:47:41Z",
+          "alarms": []
+        },
+        {
+          "id": "30b11c6f-daa6-4bfd-bc25-31805105c91b",
+          "value": "24.8",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -67,
+          "completed_at": "2018-09-14T09:37:33Z",
+          "alarms": []
+        },
+        {
+          "id": "12041ce9-2fa0-4590-9e02-ddf00e1c9452",
+          "value": "25.6",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -70,
+          "completed_at": "2018-09-14T09:27:24Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "°C",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "ae90e01d-d1b8-4bb9-9b88-4feacb67a6aa",
+      "key": "temp---rs485-sensor-3fef15",
+      "name": "Temp - RS485 Sensor",
+      "device": {
+        "id": "0d3ed9fd-b9e3-4ba8-bb5d-00cb718f864c",
+        "device_id": "3FEF15",
+        "device_name": "SAL_3FEF15",
+        "device_type": "SSAI",
+        "alias_name": "Freezer Temp",
+        "latitude": "1.3138451",
+        "longitude": "103.8137249",
+        "location": "Botanic Gardens"
+      },
+      "device_data_key": "RS485TXS.Temperature Sensor.Temperature",
+      "conversion_factor": 0.1,
+      "feed_data": [
+        {
+          "id": "9c94cf97-4938-4ed8-b038-f2d9dc9dd3af",
+          "value": "24.8",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -36,
+          "completed_at": "2018-09-14T10:08:09Z",
+          "alarms": []
+        },
+        {
+          "id": "25581a59-8076-4d78-8d76-6487093ebb29",
+          "value": "24.8",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -35,
+          "completed_at": "2018-09-14T09:58:00Z",
+          "alarms": []
+        },
+        {
+          "id": "27380e20-6549-4685-8919-8da450a03089",
+          "value": "24.900000000000002",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -128,
+          "completed_at": "2018-09-14T09:47:51Z",
+          "alarms": []
+        },
+        {
+          "id": "c08f455e-9b83-4c65-a45f-0fdc367044e7",
+          "value": "24.900000000000002",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -36,
+          "completed_at": "2018-09-14T09:37:43Z",
+          "alarms": []
+        },
+        {
+          "id": "c0f70ba6-4849-4865-94a7-c3079935d524",
+          "value": "24.900000000000002",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -36,
+          "completed_at": "2018-09-14T09:27:34Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "°C",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "3b858553-ad34-4edf-9adb-827d63f87a12",
+      "key": "threshol-3fef15",
+      "name": "Threshol",
+      "device": {
+        "id": "0d3ed9fd-b9e3-4ba8-bb5d-00cb718f864c",
+        "device_id": "3FEF15",
+        "device_name": "SAL_3FEF15",
+        "device_type": "SSAI",
+        "alias_name": "Freezer Temp",
+        "latitude": "1.3138451",
+        "longitude": "103.8137249",
+        "location": "Botanic Gardens"
+      },
+      "device_data_key": "RS485TXS.Temperature Sensor.Threshold",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "807c50ba-586c-470b-a1fa-623234d1b4af",
+          "value": "32.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -36,
+          "completed_at": "2018-09-14T10:08:09Z",
+          "alarms": []
+        },
+        {
+          "id": "0a79f266-f0c0-469e-9e0b-4b2452b4593e",
+          "value": "32.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -35,
+          "completed_at": "2018-09-14T09:58:00Z",
+          "alarms": []
+        },
+        {
+          "id": "7d73aaac-b140-4de9-9299-767c07165e0f",
+          "value": "32.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -128,
+          "completed_at": "2018-09-14T09:47:51Z",
+          "alarms": []
+        },
+        {
+          "id": "c948386a-34a9-4fe5-92bb-b2a57cdc35b5",
+          "value": "32.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -36,
+          "completed_at": "2018-09-14T09:37:43Z",
+          "alarms": []
+        },
+        {
+          "id": "3537c6ad-f110-4cfa-a0ff-bb9149b1ebdc",
+          "value": "32.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -36,
+          "completed_at": "2018-09-14T09:27:34Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "c",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "c8d41738-3c9c-4470-90ab-639a5b251709",
+      "key": "transmission-id-2c597e",
+      "name": "Transmission ID",
+      "device": {
+        "id": "2777c983-ab27-4779-a310-72b51c674223",
+        "device_id": "2C597E",
+        "device_name": "SAL_2C597E",
+        "device_type": "SSAI",
+        "alias_name": "Ideal_Test2",
+        "latitude": "1.3873578",
+        "longitude": "103.7294776",
+        "location": "Choa Chu Kang"
+      },
+      "device_data_key": "RS485 TX ID",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "074d0ac5-59d0-479a-954a-19842a32e9f1",
+          "value": "0.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -35,
+          "completed_at": "2018-09-14T10:02:39Z",
+          "alarms": []
+        },
+        {
+          "id": "938c6cc8-8cec-4bfe-b504-0fbc9dc64aaf",
+          "value": "0.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -38,
+          "completed_at": "2018-09-14T09:52:31Z",
+          "alarms": []
+        },
+        {
+          "id": "bf673984-ded1-4014-aed2-35473f01502e",
+          "value": "0.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -119,
+          "completed_at": "2018-09-14T09:42:23Z",
+          "alarms": []
+        },
+        {
+          "id": "90725c83-718d-4535-a261-bf7288684abe",
+          "value": "0.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -35,
+          "completed_at": "2018-09-14T09:32:14Z",
+          "alarms": []
+        },
+        {
+          "id": "89528089-df61-4a0c-8cc5-e72d6d8bf508",
+          "value": "0.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -35,
+          "completed_at": "2018-09-14T09:22:05Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    },
+    {
+      "id": "47c8f211-f255-42c0-91dc-9b37ff71858a",
+      "key": "uvindex-2c31cf",
+      "name": "UV Index",
+      "device": {
+        "id": "93e702cf-5440-49a8-998e-cf3d6c348be1",
+        "device_id": "2C31CF",
+        "device_name": "SAL_2C31CF",
+        "device_type": "SSAI",
+        "alias_name": "George",
+        "latitude": "1.3108490",
+        "longitude": "103.8637110",
+        "location": "DCMA"
+      },
+      "device_data_key": "UV Index",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "7dc5f7da-ddeb-4eda-83b9-1a63b942e898",
+          "value": "0.15",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -112,
+          "completed_at": "2018-08-31T08:33:44Z",
+          "alarms": []
+        },
+        {
+          "id": "d99f9944-8d17-447b-b569-f3b5f0c2de11",
+          "value": "0.13",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -120,
+          "completed_at": "2018-08-31T08:32:36Z",
+          "alarms": []
+        },
+        {
+          "id": "0c233edd-14fe-480f-87dd-e22895f92277",
+          "value": "0.13",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -99,
+          "completed_at": "2018-08-31T08:31:29Z",
+          "alarms": []
+        },
+        {
+          "id": "0fb978ba-55ef-4d59-8742-56762678cb73",
+          "value": "0.12",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -119,
+          "completed_at": "2018-08-31T08:30:22Z",
+          "alarms": []
+        },
+        {
+          "id": "0dcd1ec5-403d-4608-8cc5-c5fab08c69b9",
+          "value": "0.13",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -110,
+          "completed_at": "2018-08-31T08:29:15Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "",
+      "is_active": true,
+      "health": "Inactive",
+      "retroactive": false
+    },
+    {
+      "id": "f60bbacc-edf0-4084-becb-17536b07ba9e",
+      "key": "voc-2c5b21",
+      "name": "Voc",
+      "device": {
+        "id": "3b91fd9d-59fa-4843-bb81-0bb32042feb2",
+        "device_id": "2C5B21",
+        "device_name": "SAL_2C5B21",
+        "device_type": "SSCI",
+        "alias_name": "AirQuality",
+        "latitude": "1.4414698",
+        "longitude": "103.7707968",
+        "location": "Woodlands"
+      },
+      "device_data_key": "VOC",
+      "conversion_factor": 1,
+      "feed_data": [
+        {
+          "id": "a5418b76-ce4c-4f85-9575-2369f1f23c74",
+          "value": "52.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T10:07:57Z",
+          "alarms": []
+        },
+        {
+          "id": "c7535bda-bc1f-46e3-9c74-bcffb216ea3f",
+          "value": "62.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -72,
+          "completed_at": "2018-09-14T09:57:48Z",
+          "alarms": []
+        },
+        {
+          "id": "e0ce0f64-8aad-44c5-863f-4e3e14af30a5",
+          "value": "76.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -71,
+          "completed_at": "2018-09-14T09:47:41Z",
+          "alarms": []
+        },
+        {
+          "id": "bd619c66-6cac-4e06-97bf-93a522defd3a",
+          "value": "45.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -67,
+          "completed_at": "2018-09-14T09:37:33Z",
+          "alarms": []
+        },
+        {
+          "id": "da374199-d5f2-4ccf-b00a-dca9fd6adfd0",
+          "value": "57.0",
+          "category": "Norm",
+          "lat": 1,
+          "lon": 104,
+          "ele": null,
+          "rssi": -70,
+          "completed_at": "2018-09-14T09:27:24Z",
+          "alarms": []
+        }
+      ],
+      "feed_type": "",
+      "unit_symbol": "ppb",
+      "is_active": true,
+      "health": "Norm",
+      "retroactive": false
+    }
+  ]
+}

@@ -6,6 +6,7 @@
 **/es
 **/lib
 **/node_modules
+**/.idea
 **/test-results
 **/.eslintcache
 **/*.log

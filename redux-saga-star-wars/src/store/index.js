@@ -1,6 +1,5 @@
-import { createStore, applyMiddleware } from 'redux';
-import createSaga from 'redux-saga'
-import starWarsApp from '../reducers'
+import configureStore from '../configureStore'
 
-export default createStore(starWarsApp)
+var store = configureStore();
+export default store;
 
